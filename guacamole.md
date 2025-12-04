@@ -2,6 +2,6 @@
 ## Ingredients
 * avocado
 * lime
-* sea salt
+* salt
 ## Instructions
- 
+* put one avocado into a bowl.
