@@ -2,6 +2,6 @@
 ## Ingredients
 * avocado
 * lime
-* salt
+* sea salt
 ## Instructions
  
